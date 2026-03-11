@@ -34,8 +34,8 @@ Com mais de 20 anos de experiência transformando processos complexos em fluxos 
 ---
 
 ## 📫 Vamos nos conectar?
-* **Site:** [cognitx](https://cognitx.com.br)
-* **Ambiente de Homologação:** [botmanager](http://app.richdatahouse.tech)
+* **Site:** [Cognitx](https://cognitx.com.br)
+* **Ambiente de Homologação:** [Botmanager](http://hmg.botmanager.com.br)
 * **LinkedIn:** [www.linkedin.com/in/eriston-santos]
 
 ---

@@ -6,7 +6,8 @@ Com mais de 20 anos de experiência transformando processos complexos em fluxos 
 ---
 
 ## 🚀 Atualmente Focado em:
-* **CognitX:** Fundador e Arquiteto na [CognitX](https://cognix.com.br) e na [Brain Analytics](https://brainanalytics.com.br) , provendo soluções de Data Analytics e Dev.
+* **CognitX:** Fundador e Arquiteto na [CognitX](https://cognix.com.br), provendo soluções de Data Analytics e Dev.
+* **Brain Analytics:** Arquiteto de automações em RPA na [Brain Analytics](https://brainanalytics.com.br)
 * **BotManager:** Desenvolvendo um orquestrador SaaS robusto para automação de processos.
 * **Acadêmico:** Cursando Pós-graduação em IA e Engenharia de Dados para aplicar modelos preditivos em fluxos de automação.
 
@@ -33,9 +34,9 @@ Com mais de 20 anos de experiência transformando processos complexos em fluxos 
 ---
 
 ## 📫 Vamos nos conectar?
-* **Site:** [cognix-portal.web.app](https://cognix-portal.web.app)
+* **Site:** [cognix-portal.web.app](https://cognitx.com.br)
 * **Ambiente de Homologação:** [app.richdatahouse.tech](http://app.richdatahouse.tech)
-* **LinkedIn:** [Seu Link do LinkedIn Aqui]
+* **LinkedIn:** [www.linkedin.com/in/eriston-santos]
 
 ---
 

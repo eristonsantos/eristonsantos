@@ -27,8 +27,8 @@ Com mais de 20 anos de experiência transformando processos complexos em fluxos 
 ## 📈 Estatísticas de Desenvolvedor
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eristonsantos&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eristonsantos&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="180px"/>
 </p>
 
 ---
